@@ -1,6 +1,6 @@
 import React from 'react';
-import JumbotronContainer from './containers/jumbotron';
+import Home from './pages/home';
 
 export default function App() {
-  return <JumbotronContainer />;
+  return <Home />;
 }
